@@ -21,7 +21,7 @@ Explotar una vulnerabilidad de enumeración de usuarios para identificar un nomb
 
 
    
-4. Identifiqué el nombre de usuario válido 'apps' a partir del ataque anterior.\
+4. Identifiqué el nombre de usuario válido `apps` a partir del ataque anterior.\
 
 
 5. Utilicé fuerza bruta con una lista de contraseñas candidatas para encontrar la correspondiente con el nombre de usuario válido.\
